@@ -14,3 +14,6 @@ concurrent service.
 
 go version - go version go1.24.6 linux/amd64
 
+go build path_dir/file_name
+./file_name
+go run build path_dir/file_name
