@@ -1,0 +1,16 @@
+powerfull
+lightweight
+compiled in machine code
+used multithread
+goroutines - lightweight threds, buffers
+concurrent service.
+
+5 reasons to chose golang
+1. build time - take small time which helps in devops operations
+2. fast startup - helps to run app fast - upscale
+3. performance & efficiency - server resouces ussage takes low ammount
+4. concurrency model - cpu holds multiple threads or cores, go use cpu resouces efficiently
+5. static typing and compilation - 
+
+go version - go version go1.24.6 linux/amd64
+
